@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header ul{
+	font-size: 25px;
+	font-family: "叶根友毛笔行书2.0版";
+	list-style: none;
+}
+img {
+    border-radius: 50%;
+}
+#header li{
+	color: #909090;
+	display: inline;
+}
+a:hover{
+	font-weight: bold;
+	color: #8AFF5B;
+}
+a:visited{
+	color: #5f5f5f;
+	text-decoration: underline;
+}
+#bodier{
+	line-height: 100px;	
+}
+#bodier h1{
+	text-align: center;
+	font-size: 39px;
+	font-family: "叶根友毛笔行书2.0版";
+	color: #5f5f5f;
+}
+#bodier h2{
+	text-align: center;
+	font-size: 24px;
+	font-family: "叶根友毛笔行书2.0版";
+	color: #686666;
+}#bodier p{
+	text-align: center;
+	font-size: 24px;
+	font-family: "叶根友毛笔行书2.0版";
+	color: #686666;
+}
+#bodier img{
+	float:none;
+}
+#back{
+float:right;
+margin-top: 0px;
+}
+#message p{
+		font-size: 24px;
+		font-family: "叶根友毛笔行书2.0版";
+		color: #785C00;
+		line-height: 25px;
+	}
+#footer{
+	font-family: "叶根友毛笔行书2.0版";
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+#footer img{
+	height: 50px;
+	width: 50px;
+}
